@@ -9,13 +9,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/getintodevops/hellonode/"
+      "url": "https://https://github.com/AleemRahil/automate-docker-jenkins/"
     },
     "keywords": [
       "node",
       "docker",
-      "dockerfile"
+      "Dockerfile"
     ],
-    "author": "miiro@getintodevops.com",
+    "author": "aleem.devops@gmail.com",
     "license": "ISC"
   }
